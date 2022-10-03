@@ -1,4 +1,14 @@
 
+# Checkout/Clone this git repository
+```
+git clone git@github.com:ericfordelon/fusion-export-import-dockerrun.git
+
+#or
+
+git clone https://github.com/ericfordelon/fusion-export-import-dockerrun.git
+
+```
+
 Copy the sample application properties into application.properties
 ```
 cp config/sample.application.properties config/application.properties
